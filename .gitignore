@@ -1,0 +1,16 @@
+# Allow Python and TOML files
+!*.py
+!*.toml
+
+# Explicitly allow requirements.txt
+!requirements.txt
+
+# Ignore specific directories
+data/
+tests/
+
+# Ignore specific files
+__init__.py
+newplot.png
+poetry.lock
+README.md

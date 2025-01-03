@@ -10,7 +10,8 @@ The primary goal of this repository is to demonstrate **Plotly** customization a
 ## Repository Contents
 
 - **Python Scripts**:
-  - Code for reading the source data, performing transformations, and generating visualizations.
+  - figfridayW52.py: Uses Pandas for data reading and transformation.
+  - FigFridayW52_polars.py: Uses Polars for data reading and transformation.
 
 ## Notes and Disclaimer
 
